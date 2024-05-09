@@ -1,6 +1,6 @@
 # Welcome to Hypermynds! 🌟
 
-![Hypermynds Logo](logo.png)
+<img src="profile/logo.png" align="left" height="100" />
 
 Welcome to the official GitHub profile of **Hypermynds**, an innovative technology company that specializes in cutting-edge solutions in artificial intelligence 🧠, big data analytics 📊, and machine learning 🤖. At Hypermynds, we are dedicated to transforming businesses by delivering powerful, scalable, and tailor-made tech solutions that drive innovation and efficiency.
 

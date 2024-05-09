@@ -4,7 +4,7 @@ Welcome to the official GitHub profile of **Hypermynds**, an innovative technolo
 
 ## About Us 📝
 
-At Hypermynds, we believe in the power of data to transform the world. Founded in 2018, we have rapidly grown into a leading force in the tech industry, known for our commitment to excellence and our innovative approach. Our team consists of world-class engineers, data scientists, and business professionals who are passionate about making a tangible impact through technology.
+At Hypermynds, we believe in the power of data to transform the world. Founded in 2017, we have rapidly grown into a leading force in the tech industry, known for our commitment to excellence and our innovative approach. Our team consists of world-class engineers, data scientists, and business professionals who are passionate about making a tangible impact through technology.
 
 ## Our Solutions 💡
 
@@ -25,7 +25,7 @@ Here are some of the projects we are particularly proud of:
 
 ## Join Us 🤝
 
-Are you passionate about using technology to solve complex problems? Do you want to work with a dynamic team that is constantly pushing the boundaries of what's possible? Hypermynds is always looking for talented individuals to join our team. Check out our [Careers](link-to-careers-page) page for current opportunities.
+Are you passionate about using technology to solve complex problems? Do you want to work with a dynamic team that is constantly pushing the boundaries of what's possible? Hypermynds is always looking for talented individuals to join our team. Check out our [Careers](https://www.hypermynds.com/about/#join-our-team) page for current opportunities.
 
 ## Contact Us 📬
 
